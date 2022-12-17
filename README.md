@@ -1,1 +1,1 @@
-# yeditor
+# editor
